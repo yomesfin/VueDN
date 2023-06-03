@@ -1,7 +1,7 @@
 ---
 lastUpdated: true
 contributors: true
-externalLinkIcon: false
+externalLinkIcon: true
 date: 2023-06-03
 ---
 *After being exposed to various projects in different positions, I got lessons. It’s understandable if you find this point common sense. But, you know what? Common sense ain’t common sense sometimes! Let’s 1, 2 .. 5 them.*
